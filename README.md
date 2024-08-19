@@ -21,3 +21,6 @@ To view this webpage locally:
 2. Open index.html in your web browser.
 
 3. Open index.html
+
+   
+![desktop-design](https://github.com/user-attachments/assets/e17ec827-2b6a-4d03-a1f6-7fbf290da129)
